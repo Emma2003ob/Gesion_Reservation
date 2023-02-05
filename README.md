@@ -1,7 +1,7 @@
 # Titre Projet: Gesion_Reservation
 # N°Groupe: Groupe 2
 # Membres:
-# OBRO AMIAN MARIE-EMMANUELLE JUDITH : Chef de groupe
+# OBRO AMIAN ADJO MARIE-EMMANUELLE JUDITH : Chef de groupe
 # OUATTARA FOUGNIGUE KARIM
 # BINDE AFFO GRACE EMMANUELA
 # KOUASSI AKA YVES ADAM
